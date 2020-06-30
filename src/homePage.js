@@ -12,7 +12,7 @@ export {addHeader, addPhotos};
 
 function addHeader () {
     const header = document.createElement('span');
-    header.style = 'left: 300px;  top: 200px; width: 400px; height: 250px; background-color: #73b6ba; position: absolute; z-index: 5;' +
+    header.style = 'left: 33vw;  top: 200px; width: 400px; height: 250px; background-color: #73b6ba; position: absolute; z-index: 5;' +
 		'border: solid white 5px;';
     
     const name = document.createElement('h2');
