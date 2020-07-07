@@ -1,0 +1,33 @@
+teas
+    tags
+
+      tea bags
+      loose-leaf
+      herbal
+      caffeine
+
+   jasmine green
+   pear white
+   english breakfast
+   chai
+   monkey-picked oolong
+   moroccan mint
+   earl grey
+   yerba mate
+   rooibos
+   matcha
+   sencha
+   genmaicha
+
+serve
+   teapots
+   teacups
+   teasets
+   displays
+   plates
+   
+equipment
+    infusers
+    matcha whisker
+    kettles
+
