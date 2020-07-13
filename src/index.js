@@ -42,6 +42,9 @@ function initContent() {
     var onlineTab = document.createElement('button');
     onlineTab.innerHTML = 'Order Online';
     onlineTab.style.cssText = buttonStyle + 'float: right;';
+    onlineTab.onclick = () => {
+        window.open('https://tealinquent.herokuapp.com/products');
+    }
     setUpButton(onlineTab);
     navBar.appendChild(onlineTab);
 
